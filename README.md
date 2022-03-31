@@ -1,4 +1,4 @@
-![marwin1991_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+![FilipKoniuszewski_header](https://user-images.githubusercontent.com/82803009/161132688-3ab97fe1-4872-4d66-88cc-69213df33574.jpg)
 ### Hi there 👋
 
 My name is Filip Koniuszewski and I am a junior Fullstack developer .Net + React
@@ -17,24 +17,19 @@ Feel free to contact me I will be happy to help you 🙂.
 
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161132871-1f7d77ba-052a-43dc-ae9d-39a94aa0b439.png"></code>
+
 
 ![FilipKoniuszewski GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true)
 
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **React**
-
-
-
-
-
-
-
 
 
 
