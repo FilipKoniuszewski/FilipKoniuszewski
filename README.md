@@ -1,3 +1,5 @@
+<img width="100%" src="https://user-images.githubusercontent.com/82803009/161139243-50bfe593-85f1-4dfd-a0b7-d0565bb8ce11.jpg">
+
 ### Hi there 👋
 
 My name is Filip Koniuszewski and I am a junior Fullstack developer .Net + React
