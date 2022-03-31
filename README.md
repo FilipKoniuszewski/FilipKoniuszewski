@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/82803009/161134405-0189309b-d1d0-450b-9972-7844aeed4ad2.jpg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/82803009/161134977-e4b83704-8b9e-4e5d-9871-05a9cfb1c7d7.jpg" width="100%"/>
 
 ### Hi there 👋
 
@@ -24,7 +24,6 @@ Feel free to contact me I will be happy to help you 🙂.
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161132871-1f7d77ba-052a-43dc-ae9d-39a94aa0b439.png"></code>
-
 
 ![FilipKoniuszewski GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true)
 
