@@ -1,4 +1,4 @@
-![FilipKoniuszewski_header](https://user-images.githubusercontent.com/82803009/161132688-3ab97fe1-4872-4d66-88cc-69213df33574.jpg)
+<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161132688-3ab97fe1-4872-4d66-88cc-69213df33574.jpg"></code>
 ### Hi there 👋
 
 My name is Filip Koniuszewski and I am a junior Fullstack developer .Net + React
