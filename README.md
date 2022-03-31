@@ -7,7 +7,7 @@ My name is Filip Koniuszewski and I am a junior Fullstack developer .Net + React
 I am relatively new in programming world but what gives me the greatest joy is learning new things everyday and seeing the results of my work. 
 Especially when other contributors are satisfied and happy of the result. 
 
-I am definitely 'react' and 'sports' lover
+I am definitely `react` and `sports` lover
 
 Feel free to contact me I will be happy to help you 🙂.
 
