@@ -23,10 +23,9 @@ Feel free to contact me I will be happy to help you 🙂.
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161132871-1f7d77ba-052a-43dc-ae9d-39a94aa0b439.png"></code>
+<code><img height="50" src="https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true"></code>
 
-![FilipKoniuszewski GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true)
-
+![NET_Core_Logo svg](https://user-images.githubusercontent.com/82803009/161135147-61567e25-0379-4023-b839-008fbabc8654.png)
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **React**
