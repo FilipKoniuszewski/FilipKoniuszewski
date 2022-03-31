@@ -25,8 +25,6 @@ Feel free to contact me I will be happy to help you 🙂.
 
 ![FilipKoniuszewski GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwin1991&show_icons=true&theme=great-gatsby)](https://github.com/marwin1991?tab=repositories)
-
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **React**
