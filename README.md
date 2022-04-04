@@ -18,14 +18,14 @@ Feel free to contact me I will be happy to help you 🙂.
 [<img src="https://img.shields.io/badge/FrontendMentor-46244C?style=for-the-badge&logo=FrontendMentor&logoColor=white">](https://www.frontendmentor.io/profile/FilipKoniuszewski)
 [<img src="https://img.shields.io/badge/Codewars-AA3620?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/koniusz)
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161136064-8826600f-6688-4d01-adad-7c9b6a787ce5.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/82803009/161135670-7382079c-3862-4bf4-9d77-de63f0bc9eb4.png"></code>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="50" src="https://user-images.githubusercontent.com/82803009/161136064-8826600f-6688-4d01-adad-7c9b6a787ce5.png">
+<img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+<img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+<img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+<img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+<img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png">
+<img height="50" src="https://user-images.githubusercontent.com/82803009/161135670-7382079c-3862-4bf4-9d77-de63f0bc9eb4.png">
 
 ![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
 
