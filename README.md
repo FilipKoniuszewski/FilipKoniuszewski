@@ -17,6 +17,7 @@ Feel free to contact me I will be happy to help you 🙂.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/filip-koniuszewski-950361235/)
 [<img src="https://img.shields.io/badge/FrontendMentor-46244C?style=for-the-badge&logo=FrontendMentor&logoColor=white">](https://www.frontendmentor.io/profile/FilipKoniuszewski)
 [<img src="https://img.shields.io/badge/Codewars-AA3620?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/koniusz)
+[<img src="https://www.codewars.com/users/koniusz/badges/micro">]
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161136064-8826600f-6688-4d01-adad-7c9b6a787ce5.png"></code>
