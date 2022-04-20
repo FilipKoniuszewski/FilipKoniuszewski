@@ -28,6 +28,7 @@ Feel free to contact me I will be happy to help you 🙂.
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161135670-7382079c-3862-4bf4-9d77-de63f0bc9eb4.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats)
+
 ![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
