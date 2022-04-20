@@ -29,7 +29,7 @@ Feel free to contact me I will be happy to help you 🙂.
 
 ![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=dracula)](https://github.com/FilipKoniuszewski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats)
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **React**
