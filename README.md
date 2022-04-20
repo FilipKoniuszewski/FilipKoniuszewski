@@ -27,9 +27,9 @@ Feel free to contact me I will be happy to help you 🙂.
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161135670-7382079c-3862-4bf4-9d77-de63f0bc9eb4.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats)
-
 ![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats)
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **React**
