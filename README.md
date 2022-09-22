@@ -19,6 +19,7 @@ Feel free to contact me I will be happy to help you 🙂.
 [<img src="https://img.shields.io/badge/Codewars-AA3620?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/koniusz)
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161136064-8826600f-6688-4d01-adad-7c9b6a787ce5.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
@@ -30,9 +31,6 @@ Feel free to contact me I will be happy to help you 🙂.
 ![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats) -->
-
-- 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
-- 🌱 I’m currently learning **React**
 
 
 
