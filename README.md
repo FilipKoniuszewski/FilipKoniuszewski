@@ -13,8 +13,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/82803009/161130798-5da80b57-bcae-4d6f-b3e6-ba23258e08f8.png"></code>
 
-![Filip GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipKoniuszewski&show_icons=true&theme=tokyonight)
-
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipKoniuszewski&theme=tokyonight)](https://github.com/FilipKoniuszewski/github-readme-stats) -->
 
 
