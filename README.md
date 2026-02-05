@@ -1,16 +1,3 @@
-<img width="100%" height="300" src="https://user-images.githubusercontent.com/82803009/161140630-bacbf2e8-a8f7-47f6-9ee5-0d9efa0c618e.jpg">
-
-### Hi there 👋
-
-My name is Filip Koniuszewski and I am a junior React developer
-
-I am relatively new in programming world but what gives me the greatest joy is learning new things everyday and seeing the results of my work. 
-Especially when other contributors are satisfied and happy of the result. 
-
-I am definitely `react` and `sports` lover
-
-Feel free to contact me I will be happy to help you 🙂.
-
 [![](https://komarev.com/ghpvc/?username=FilipKoniuszewski&color=000000)](https://github.com/FilipKoniuszewski?tab=repositories)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:Filip7446@gmail.com)
